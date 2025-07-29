@@ -1,5 +1,5 @@
 {
-  "homepage":"https://suhani-k7.github.io/blog-website/",
+  "homepage": "https://suhani-k7.github.io/blog-website/",
   "name": "blog-website",
   "version": "0.1.0",
   "private": true,
@@ -20,8 +20,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "server": "json-server -p 8000 data/db.json",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
